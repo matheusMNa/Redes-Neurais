@@ -1,1 +1,1 @@
-# Redes-Neurais
+# Redes-Neurais - PINNs
