@@ -24,6 +24,8 @@ O notebook foi desenvolvido em um ambiente virtual conda, cujas especificações
 
 Após realizar o download do repositório, é necessário criar um ambiente virtual que contenha, no mínimo, as principais bibliotecas. Recomenda-se que se faça uso de um ambiente virtual Conda. Após criar e ativar o ambiente virtual, vá até a pasta em que esse repositório foi salvo em seu computador e execute o comando `jupyter lab`. Isso fará com que o Notebook seja executado no ambiente virtual adequado. Novamente, todas as configurações do ambiente virtual utilizado neste trabalho estão no arquivo `environment.yml`. O Notebook aqui contido já está em sua forma compilada, mas caso as células não estejam executadas, clique na ferramenta `Restart Kernel and Run All Cells` no ambiente do Jupyter Lab.
 
+O arquivo .jpg, como o nome dele sugere, é uma imagem meramente ilustrativa que motivou as horas de trabalho por trás desse repositório.
+
 # 👥 Desenvolvedor do Projeto 👥
 
 
