@@ -35,6 +35,14 @@ Aluno do terceiro semestre de Ciência e Tecnologia, na Ilum Escola de Ciência
 
 -Escreveu o Notebook e estruturou este repositório no GitHub.
 
+
+
 Agradecimento especial ao professor da matéria de Redes Neurais e Algoritmos Genéticos:
 
 📍Professor Daniel Roberto Cassar
+
+Agradecimento especial ao ex-colega e brilahnte pesquisador:
+
+📍Eric Leandro
+
+
