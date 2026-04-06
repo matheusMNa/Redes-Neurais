@@ -41,7 +41,7 @@ Agradecimento especial ao professor da matéria de Redes Neurais e Algoritmos Ge
 
 📍Professor Daniel Roberto Cassar
 
-Agradecimento especial ao ex-colega e brilahnte pesquisador:
+Agradecimento especial ao ex-colega e brilhante pesquisador:
 
 📍Eric Leandro
 
