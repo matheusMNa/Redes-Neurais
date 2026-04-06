@@ -18,7 +18,7 @@ As principais bibliotecas, módulos e pacotes utilizados foram:
 - [Matplotlib](https://matplotlib.org/)
 - [Conda](https://docs.conda.io/en/latest/)
 
-O notebook foi desenvolvido em um ambiente virtual conda, cujas especificações estão contidas no arquivo [environment.yml](https://github.com/matheusMNa/Redes-Neurais/blob/main/environment.yml). A versão do Python utilizada é a 3.12.13.
+O Notebook foi desenvolvido em um ambiente virtual conda, cujas especificações estão contidas no arquivo [environment.yml](https://github.com/matheusMNa/Redes-Neurais/blob/main/environment.yml). A versão do Python utilizada é a 3.12.13.
 
 # 💻 Instalação e Instruções 💻
 
